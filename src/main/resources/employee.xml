@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+        <postal_Code>005</postal_Code>
+        <street>Moldovakan</street>
+    </address>
+    <age>36</age>
+    <firstName>Bob</firstName>
+    <lastName>Smith</lastName>
+    <phone>
+        <phoneNumber>077</phoneNumber>
+        <phoneNumberType>Home</phoneNumberType>
+    </phone>
+</employeeXML>
